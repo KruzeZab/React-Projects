@@ -1,0 +1,32 @@
+.counter__heading {
+  font-size: 2rem;
+  margin-bottom: 0.4rem;
+}
+
+.counter__number {
+  font-size: 5rem;
+  margin-bottom: 1rem;
+  color: #00a085;
+}
+
+.btn {
+  display: inline-block;
+  margin-right: .5rem;
+  background: none;
+  border: 1px solid #000;
+  border-radius: 4px;
+  padding: 0.4rem 0.6rem;
+  cursor: pointer;
+  transition: all 0.4s ease;
+  font-size: 0.9rem;
+  letter-spacing: 1px;
+}
+
+.btn:hover {
+  background: #1a1a1a;
+  color: #fff;
+}
+
+
+
+
