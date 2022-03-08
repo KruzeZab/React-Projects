@@ -8,3 +8,4 @@ My take on this 45 Different React Projects - https://contactmentor.com/best-rea
 4. Search Filter
 5. Basic Registration Form
 6. React Quiz App
+7. React Navbar
