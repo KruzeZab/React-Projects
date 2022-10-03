@@ -1,0 +1,206 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "content": "This is my first post",
+      "url": "random url",
+      "user": {
+        "id": 1,
+        "name": "John Doe"
+      }
+    },
+    {
+      "id": 2,
+      "title": "My Second Post",
+      "content": "This is my Second post",
+
+      "user": {
+        "id": 1,
+        "name": "Joh Doe"
+      }
+    },
+    {
+      "id": 3,
+      "title": "My Third Post",
+      "content": "This is my third post",
+
+      "user": {
+        "id": 2,
+        "name": "James Charles"
+      }
+    },
+    {
+      "id": 4,
+      "title": "My Fourth Post",
+      "content": "This is my fourth post",
+
+      "user": {
+        "id": 2,
+        "name": "James Charles"
+      }
+    },
+    {
+      "id": 5,
+      "title": "My Fifth Post",
+      "content": "This is my fifth post",
+
+      "user": {
+        "id": 3,
+        "name": "John Smith"
+      }
+    },
+    {
+      "id": 6,
+      "title": "My Sixth Post",
+      "content": "This is my sixth post",
+
+      "user": {
+        "id": 3,
+        "name": "John Smith"
+      }
+    },
+    {
+      "id": 7,
+      "title": "My Seventh Post",
+      "content": "This is my seventh post",
+
+      "user": {
+        "id": 4,
+        "name": "John Wick"
+      }
+    },
+    {
+      "id": 8,
+      "title": "My Eighth Post",
+      "content": "This is my eighth post",
+
+      "user": {
+        "id": 4,
+        "name": "John Wick"
+      }
+    },
+    {
+      "id": 9,
+      "title": "My Ninth Post",
+      "content": "This is my ninth post",
+
+      "user": {
+        "id": 5,
+        "name": "John Cena"
+      }
+    },
+    {
+      "id": 10,
+      "title": "My Tenth Post",
+      "content": "This is my tenth post",
+
+      "user": {
+        "id": 5,
+        "name": "John Cena"
+      }
+    },
+    {
+      "id": 11,
+      "title": "My Eleventh Post",
+      "content": "This is my eleventh post",
+
+      "user": {
+        "id": 6,
+        "name": "John Snow"
+      }
+    },
+    {
+      "id": 12,
+      "title": "My Twelfth Post",
+      "content": "This is my twelfth post",
+
+      "user": {
+        "id": 6,
+        "name": "John Snow"
+      }
+    },
+    {
+      "id": 13,
+      "title": "My Thirteenth Post",
+      "content": "This is my thirteenth post",
+
+      "user": {
+        "id": 7,
+        "name": "John Wick"
+      }
+    },
+    {
+      "id": 14,
+      "title": "My Fourteenth Post",
+      "content": "This is my fourteenth post",
+
+      "user": {
+        "id": 7,
+        "name": "John Wick"
+      }
+    },
+    {
+      "id": 15,
+      "title": "My Fifteenth Post",
+      "content": "This is my fifteenth post",
+
+      "user": {
+        "id": 8,
+        "name": "John Wick"
+      }
+    },
+    {
+      "id": 16,
+      "title": "My Sixteenth Post",
+      "content": "This is my sixteenth post",
+
+      "user": {
+        "id": 8,
+        "name": "John Wick"
+      }
+    },
+    {
+      "id": 17,
+      "title": "My Seventeenth Post",
+      "content": "This is my seventeenth post",
+
+      "user": {
+        "id": 9,
+        "name": "John Wick"
+      }
+    },
+    {
+      "id": 18,
+      "title": "My Eighteenth Post",
+      "content": "This is my eighteenth post",
+
+      "user": {
+        "id": 9,
+        "name": "John Wick"
+      }
+    },
+    {
+      "id": 19,
+      "title": "My Nineteenth Post",
+      "content": "This is my nineteenth post",
+
+      "user": {
+        "id": 10,
+        "name": "John Wick"
+      }
+    },
+    {
+      "id": 20,
+      "title": "My Twentieth Post",
+      "content": "This is my twentieth post",
+
+      "user": {
+        "id": 10,
+        "name": "John Wick"
+      }
+    }
+
+
+  ]
+}
